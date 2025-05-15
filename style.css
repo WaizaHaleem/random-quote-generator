@@ -1,0 +1,39 @@
+/* Body Styling */
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 180px;
+  background-color: #f4f4f4;
+}
+
+/* Quote Box */
+#quote-box {
+  background: #008B8B;
+  padding: 30px;
+  border-radius: 10px;
+  width: 400px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+/* Quote Text */
+#quote {
+  font-size: 30px;
+  color: white;
+}
+
+/* Button Styling */
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ADD8E6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
